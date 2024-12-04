@@ -2,7 +2,8 @@
 
 ## Hi, I'm Ijeoma!
 
-✨ a Data analyst interested in all things data & technology<br/>
+✨ a Data analyst | Empowering individuals, businesses and organizations with actionable, data driven solutions<br/>
+✨ I'm interested in all things data & technology<br/>
 ⚡I enjoy sharing my journey and learnings in tech<br/>
  🌱 I’m currently learning @ AltSchoolAfrica<br/>
  👯 I’m open to collaborate on data analysis projects, volunteer and others<br/>
