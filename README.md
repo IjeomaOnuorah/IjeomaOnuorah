@@ -4,8 +4,7 @@
 
 ✨ a Data analyst interested in all things data & technology<br/>
 ⚡I enjoy sharing my journey and learnings in tech<br/>
- 🔭 I’m currently working on a PowerBi project<br/>
- 🌱 I’m currently learning Python<br/>
+ 🌱 I’m currently learning @ AltSchoolAfrica<br/>
  👯 I’m open to collaborate on data analysis projects, volunteer and others<br/>
  😄 Let's connect on LinkedIn and read my blog [medium](https://medium.com/@c.onuorahijeoma)<br/>
 
